@@ -1,6 +1,6 @@
 0x-contract-wrappers==2.0.0
 aioconsole==0.1.15
-aiohttp==3.7.4.post0
+aiohttp==3.9.4
 aioresponses==0.7.2
 aiokafka==0.7.1
 attrdict==2.0.1
